@@ -1,10 +1,10 @@
 # Ascii_Art
 This python program can be used to generate ASCII art in the form of photos and videos
 ## Table of contents
-* [How to run the project](#How to run the project)
-* [Internal working of the project](#Internal working of the project)
-* [Learnings from the project](#Learnings from the project)
-* [Resources](#Resources)
+* How to run the project
+* Internal working of the project 
+* Learnings from the project
+* Resources
 
 ## How to run the project
 This project requires installation of certain python packages:
@@ -39,7 +39,7 @@ elif bg == "black":
 ```
 Then we take the height and width of each image and resize it to calculate height and width of output image and make a new image using PIL
 Then we map these characters to create ASCII art.
-After that we check what is the background colour and invert and crop the ouput image acoordingly and save the output image.
+After that we check what is the background colour and invert and crop the ouput image accordingly and save the output image.
 Succesively we store each image to an image array and store this in an output video file.
 ```
 img_array=[]
