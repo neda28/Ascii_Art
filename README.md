@@ -1,10 +1,10 @@
 # Ascii_Art
 This python program can be used to generate ASCII art in the form of photos and videos
 ## Table of contents
-* [How to run the project](#How to run the project)
-* [Internal working of the project](#Internal working of the project)
-* [Learnings from the project](#Learnings from the project)
-* [Resources](#Resources)
+* How to run the project
+* Internal working of the project 
+* Learnings from the project
+* Resources
 
 ## How to run the project
 This project requires installation of certain python packages:
