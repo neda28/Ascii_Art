@@ -12,6 +12,7 @@ This project requires installation of certain python packages:
 * Pillow
 * NumPy
 * Glob
+
 This project uses the font file and the image/video file hence requires them to be present in the same folder. It also requires the font type file that we use in the program.
 	
 ## Internal working of the project 
