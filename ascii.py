@@ -3,6 +3,8 @@ import numpy as np
 import glob
 from PIL import Image, ImageDraw, ImageOps, ImageFont
 
+os.mkdir("images")
+
 # Characters used for Mapping to Pixels
 Character = {
     "standard": "@%#*+=-:. ",
